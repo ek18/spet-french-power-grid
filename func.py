@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+
 def f(X):
     L = []
     for k in range(X[1]):
